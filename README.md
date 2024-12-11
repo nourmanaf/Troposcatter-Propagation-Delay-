@@ -4,7 +4,7 @@ Welcome to the **Troposcatter-Propagation-Delay-** project! This open-source rep
 
 ## Features
 
-- **Simulation Models**: Includes propagation delay calculations based on ITU-R P.617-5 and other relevant models.
+- **Simulation Models**: Includes propagation delay calculations based on ERA5 and other relevant models.
 - **Visualization Tools**: Generate graphs and charts for signal attenuation, delay vs. distance, and more.
 - **Customizable Parameters**: Modify system parameters like distance, and atmospheric conditions.
 - **MATLAB Scripts**: Pre-built scripts for easy simulation and visualization.
